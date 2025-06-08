@@ -282,9 +282,6 @@
 /Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/Todo.MvcApplicationPartsAssemblyInfo.cache
 /Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/Todo.sourcelink.json
 /Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/scopedcss/bundle/Todo.styles.css
-/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/ep4rr7mo0i-5ipweew5fc.gz
-/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/o9fr76gjhk-5ipweew5fc.gz
-/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-5ipweew5fc.gz
 /Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/staticwebassets.build.json
 /Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/staticwebassets.development.json
 /Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -300,3 +297,6 @@
 /Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/Todo.pdb
 /Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/Todo.genruntimeconfig.cache
 /Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/ref/Todo.dll
+/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/ep4rr7mo0i-a9xpjzgtm2.gz
+/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-kzndpjh4us.gz
+/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/o9fr76gjhk-sqojsm2mmg.gz
