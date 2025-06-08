@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zTny338yEKKUSZV0hNnJKz/7CEtEb9OzjqKv+iq+G8M=",
+  "Hash": "M71SYOpsTXFw7xYyyEyQcpHwYdI95oBjuNGI42L/hfc=",
   "Source": "Todo",
   "BasePath": "_content/Todo",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-kzndpjh4us.gz",
+      "Identity": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-u2ug288vs6.gz",
       "SourceId": "Todo",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Todo",
-      "RelativePath": "js/site#[.{fingerprint=kzndpjh4us}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=u2ug288vs6}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/wwwroot/js/site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "zukh3pmlii",
-      "Integrity": "2wrE2yWZwOMPaD0p6mm+P51L02YUuSlmup7d8976+vo=",
+      "Fingerprint": "l6enuoy8ad",
+      "Integrity": "c/r+8+OofIi/T7eHg1HXn9COoJW/z3u4vEmNCO5QgGE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/wwwroot/js/site.js"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kzndpjh4us",
-      "Integrity": "sK9rvSRmhBZfC49wqvqjSYavZ1I0K/euVGBZg/uRtsI=",
+      "Fingerprint": "u2ug288vs6",
+      "Integrity": "umE16Fu7PAHqXmSMk0rKz+L2I0ng4ai0ld0EZdZvr/k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/site.js"
@@ -742,12 +742,12 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-kzndpjh4us.gz",
+      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-u2ug288vs6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000963391137"
+          "Quality": "0.000947867299"
         }
       ],
       "ResponseHeaders": [
@@ -757,15 +757,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1037"
+          "Value": "1054"
         },
         {
           "Name": "ETag",
-          "Value": "\"2wrE2yWZwOMPaD0p6mm+P51L02YUuSlmup7d8976+vo=\""
+          "Value": "\"c/r+8+OofIi/T7eHg1HXn9COoJW/z3u4vEmNCO5QgGE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 18:27:46 GMT"
+          "Value": "Sun, 08 Jun 2025 18:56:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -785,13 +785,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"sK9rvSRmhBZfC49wqvqjSYavZ1I0K/euVGBZg/uRtsI=\""
+          "Value": "W/\"umE16Fu7PAHqXmSMk0rKz+L2I0ng4ai0ld0EZdZvr/k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sK9rvSRmhBZfC49wqvqjSYavZ1I0K/euVGBZg/uRtsI="
+          "Value": "sha256-umE16Fu7PAHqXmSMk0rKz+L2I0ng4ai0ld0EZdZvr/k="
         }
       ]
     },
@@ -806,7 +806,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3399"
+          "Value": "3412"
         },
         {
           "Name": "Content-Type",
@@ -814,11 +814,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sK9rvSRmhBZfC49wqvqjSYavZ1I0K/euVGBZg/uRtsI=\""
+          "Value": "\"umE16Fu7PAHqXmSMk0rKz+L2I0ng4ai0ld0EZdZvr/k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 18:27:46 GMT"
+          "Value": "Sun, 08 Jun 2025 18:56:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -828,13 +828,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sK9rvSRmhBZfC49wqvqjSYavZ1I0K/euVGBZg/uRtsI="
+          "Value": "sha256-umE16Fu7PAHqXmSMk0rKz+L2I0ng4ai0ld0EZdZvr/k="
         }
       ]
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-kzndpjh4us.gz",
+      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-u2ug288vs6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -843,7 +843,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1037"
+          "Value": "1054"
         },
         {
           "Name": "Content-Type",
@@ -851,11 +851,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2wrE2yWZwOMPaD0p6mm+P51L02YUuSlmup7d8976+vo=\""
+          "Value": "\"c/r+8+OofIi/T7eHg1HXn9COoJW/z3u4vEmNCO5QgGE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 18:27:46 GMT"
+          "Value": "Sun, 08 Jun 2025 18:56:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -873,18 +873,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2wrE2yWZwOMPaD0p6mm+P51L02YUuSlmup7d8976+vo="
+          "Value": "sha256-c/r+8+OofIi/T7eHg1HXn9COoJW/z3u4vEmNCO5QgGE="
         }
       ]
     },
     {
-      "Route": "js/site.kzndpjh4us.js",
-      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-kzndpjh4us.gz",
+      "Route": "js/site.u2ug288vs6.js",
+      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-u2ug288vs6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000963391137"
+          "Quality": "0.000947867299"
         }
       ],
       "ResponseHeaders": [
@@ -894,15 +894,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1037"
+          "Value": "1054"
         },
         {
           "Name": "ETag",
-          "Value": "\"2wrE2yWZwOMPaD0p6mm+P51L02YUuSlmup7d8976+vo=\""
+          "Value": "\"c/r+8+OofIi/T7eHg1HXn9COoJW/z3u4vEmNCO5QgGE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 18:27:46 GMT"
+          "Value": "Sun, 08 Jun 2025 18:56:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -922,13 +922,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"sK9rvSRmhBZfC49wqvqjSYavZ1I0K/euVGBZg/uRtsI=\""
+          "Value": "W/\"umE16Fu7PAHqXmSMk0rKz+L2I0ng4ai0ld0EZdZvr/k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kzndpjh4us"
+          "Value": "u2ug288vs6"
         },
         {
           "Name": "label",
@@ -936,12 +936,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-sK9rvSRmhBZfC49wqvqjSYavZ1I0K/euVGBZg/uRtsI="
+          "Value": "sha256-umE16Fu7PAHqXmSMk0rKz+L2I0ng4ai0ld0EZdZvr/k="
         }
       ]
     },
     {
-      "Route": "js/site.kzndpjh4us.js",
+      "Route": "js/site.u2ug288vs6.js",
       "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/wwwroot/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -951,7 +951,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3399"
+          "Value": "3412"
         },
         {
           "Name": "Content-Type",
@@ -959,11 +959,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sK9rvSRmhBZfC49wqvqjSYavZ1I0K/euVGBZg/uRtsI=\""
+          "Value": "\"umE16Fu7PAHqXmSMk0rKz+L2I0ng4ai0ld0EZdZvr/k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 18:27:46 GMT"
+          "Value": "Sun, 08 Jun 2025 18:56:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -973,7 +973,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kzndpjh4us"
+          "Value": "u2ug288vs6"
         },
         {
           "Name": "label",
@@ -981,13 +981,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-sK9rvSRmhBZfC49wqvqjSYavZ1I0K/euVGBZg/uRtsI="
+          "Value": "sha256-umE16Fu7PAHqXmSMk0rKz+L2I0ng4ai0ld0EZdZvr/k="
         }
       ]
     },
     {
-      "Route": "js/site.kzndpjh4us.js.gz",
-      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-kzndpjh4us.gz",
+      "Route": "js/site.u2ug288vs6.js.gz",
+      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-u2ug288vs6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -996,7 +996,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1037"
+          "Value": "1054"
         },
         {
           "Name": "Content-Type",
@@ -1004,11 +1004,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2wrE2yWZwOMPaD0p6mm+P51L02YUuSlmup7d8976+vo=\""
+          "Value": "\"c/r+8+OofIi/T7eHg1HXn9COoJW/z3u4vEmNCO5QgGE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 18:27:46 GMT"
+          "Value": "Sun, 08 Jun 2025 18:56:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1026,7 +1026,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kzndpjh4us"
+          "Value": "u2ug288vs6"
         },
         {
           "Name": "label",
@@ -1034,7 +1034,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2wrE2yWZwOMPaD0p6mm+P51L02YUuSlmup7d8976+vo="
+          "Value": "sha256-c/r+8+OofIi/T7eHg1HXn9COoJW/z3u4vEmNCO5QgGE="
         }
       ]
     }

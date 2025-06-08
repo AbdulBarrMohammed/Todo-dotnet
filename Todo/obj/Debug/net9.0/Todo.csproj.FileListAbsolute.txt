@@ -298,5 +298,5 @@
 /Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/Todo.genruntimeconfig.cache
 /Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/ref/Todo.dll
 /Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/ep4rr7mo0i-a9xpjzgtm2.gz
-/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-kzndpjh4us.gz
 /Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/o9fr76gjhk-sqojsm2mmg.gz
+/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-u2ug288vs6.gz

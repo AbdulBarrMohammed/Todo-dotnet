@@ -57,6 +57,15 @@ function _displayCount(itemCount) {
     const name = (itemCount === 1) ? 'to-do' : 'to-dos';
 
     document.getElementById('counter').innerText = `${itemCount} ${name}`;
+}
+
+
+function deleteItem(id) {
+    fetch(`${uri}/${id}`, {
+      method: 'DELETE'
+    })
+    .then(() => getItems())
+    .catch(error => console.error('Unable to delete item.', error));
   }
 
 /*
@@ -84,13 +93,7 @@ function addItem() {
     .catch(error => console.error('Unable to add item.', error));
 }
 
-function deleteItem(id) {
-  fetch(`${uri}/${id}`, {
-    method: 'DELETE'
-  })
-  .then(() => getItems())
-  .catch(error => console.error('Unable to delete item.', error));
-}
+
 
 function displayEditForm(id) {
   const item = todos.find(item => item.id === id);
