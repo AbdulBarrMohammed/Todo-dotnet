@@ -131,7 +131,7 @@ function updateItem() {
     },
     body: JSON.stringify(item)
   })
-  .then(() => getItems())
+  .then(() => getItems(), alert('Success!'))
   .catch(error => console.error('Unable to update item.', error));
 
   closeInput();
