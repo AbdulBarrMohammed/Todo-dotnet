@@ -61,11 +61,15 @@ function _displayCount(itemCount) {
 
 
 function deleteItem(id) {
-    fetch(`${uri}/${id}`, {
-      method: 'DELETE'
-    })
-    .then(() => getItems())
-    .catch(error => console.error('Unable to delete item.', error));
+    if (window.confirm("Are you sure you want to delete this item?"))
+    {
+        fetch(`${uri}/${id}`, {
+            method: 'DELETE'
+          })
+          .then(() => getItems())
+          .catch(error => console.error('Unable to delete item.', error));
+    }
+
   }
 
 

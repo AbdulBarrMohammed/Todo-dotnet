@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "96rId5shUrqZ78m5GAa8USPGNnRGDF3XBaOZwj3H93k=",
+  "Hash": "JWenlOCIbWz2jdpzBvYFrwkZQ0EVTktOr0hFDBU1IbM=",
   "Source": "Todo",
   "BasePath": "_content/Todo",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-jw9tjkg2wi.gz",
+      "Identity": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-1casis4jdh.gz",
       "SourceId": "Todo",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Todo",
-      "RelativePath": "js/site#[.{fingerprint=jw9tjkg2wi}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=1casis4jdh}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/wwwroot/js/site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "f7k0783gnd",
-      "Integrity": "teLaXQ0eY0HzNU1z4Usf0cfEqq3aEY99kE7F4EzyFtc=",
+      "Fingerprint": "cvk5ldmi1v",
+      "Integrity": "6GGhCv9ftiYKAXuJIVVS1dTvd55yYwS8pHjXUeStskQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/wwwroot/js/site.js"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jw9tjkg2wi",
-      "Integrity": "neU5IReQequrPqkAJBSF19F1pzy/yUelvuQDREjQLrw=",
+      "Fingerprint": "1casis4jdh",
+      "Integrity": "r5pou5OyNIvcTYeoEABdSVREAWYLmBVMRVTvxRYOqvk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/site.js"
@@ -741,13 +741,13 @@
       ]
     },
     {
-      "Route": "js/site.js",
-      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-jw9tjkg2wi.gz",
+      "Route": "js/site.1casis4jdh.js",
+      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-1casis4jdh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000915750916"
+          "Quality": "0.000871839582"
         }
       ],
       "ResponseHeaders": [
@@ -757,19 +757,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1091"
+          "Value": "1146"
         },
         {
           "Name": "ETag",
-          "Value": "\"teLaXQ0eY0HzNU1z4Usf0cfEqq3aEY99kE7F4EzyFtc=\""
+          "Value": "\"6GGhCv9ftiYKAXuJIVVS1dTvd55yYwS8pHjXUeStskQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 21:47:28 GMT"
+          "Value": "Mon, 09 Jun 2025 21:59:12 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -785,18 +785,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"neU5IReQequrPqkAJBSF19F1pzy/yUelvuQDREjQLrw=\""
+          "Value": "W/\"r5pou5OyNIvcTYeoEABdSVREAWYLmBVMRVTvxRYOqvk=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "1casis4jdh"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-neU5IReQequrPqkAJBSF19F1pzy/yUelvuQDREjQLrw="
+          "Value": "sha256-r5pou5OyNIvcTYeoEABdSVREAWYLmBVMRVTvxRYOqvk="
         }
       ]
     },
     {
-      "Route": "js/site.js",
+      "Route": "js/site.1casis4jdh.js",
       "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/wwwroot/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -806,7 +814,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3724"
+          "Value": "3835"
         },
         {
           "Name": "Content-Type",
@@ -814,121 +822,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"neU5IReQequrPqkAJBSF19F1pzy/yUelvuQDREjQLrw=\""
+          "Value": "\"r5pou5OyNIvcTYeoEABdSVREAWYLmBVMRVTvxRYOqvk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 21:47:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-neU5IReQequrPqkAJBSF19F1pzy/yUelvuQDREjQLrw="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js.gz",
-      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-jw9tjkg2wi.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1091"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"teLaXQ0eY0HzNU1z4Usf0cfEqq3aEY99kE7F4EzyFtc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 21:47:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-teLaXQ0eY0HzNU1z4Usf0cfEqq3aEY99kE7F4EzyFtc="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.jw9tjkg2wi.js",
-      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-jw9tjkg2wi.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000915750916"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1091"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"teLaXQ0eY0HzNU1z4Usf0cfEqq3aEY99kE7F4EzyFtc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 21:47:28 GMT"
+          "Value": "Mon, 09 Jun 2025 21:59:12 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"neU5IReQequrPqkAJBSF19F1pzy/yUelvuQDREjQLrw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jw9tjkg2wi"
+          "Value": "1casis4jdh"
         },
         {
           "Name": "label",
@@ -936,13 +844,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-neU5IReQequrPqkAJBSF19F1pzy/yUelvuQDREjQLrw="
+          "Value": "sha256-r5pou5OyNIvcTYeoEABdSVREAWYLmBVMRVTvxRYOqvk="
         }
       ]
     },
     {
-      "Route": "js/site.jw9tjkg2wi.js",
-      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/wwwroot/js/site.js",
+      "Route": "js/site.1casis4jdh.js.gz",
+      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-1casis4jdh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -951,7 +859,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3724"
+          "Value": "1146"
         },
         {
           "Name": "Content-Type",
@@ -959,56 +867,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"neU5IReQequrPqkAJBSF19F1pzy/yUelvuQDREjQLrw=\""
+          "Value": "\"6GGhCv9ftiYKAXuJIVVS1dTvd55yYwS8pHjXUeStskQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 21:47:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jw9tjkg2wi"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-neU5IReQequrPqkAJBSF19F1pzy/yUelvuQDREjQLrw="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.jw9tjkg2wi.js.gz",
-      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-jw9tjkg2wi.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1091"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"teLaXQ0eY0HzNU1z4Usf0cfEqq3aEY99kE7F4EzyFtc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 21:47:28 GMT"
+          "Value": "Mon, 09 Jun 2025 21:59:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1026,7 +889,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jw9tjkg2wi"
+          "Value": "1casis4jdh"
         },
         {
           "Name": "label",
@@ -1034,7 +897,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-teLaXQ0eY0HzNU1z4Usf0cfEqq3aEY99kE7F4EzyFtc="
+          "Value": "sha256-6GGhCv9ftiYKAXuJIVVS1dTvd55yYwS8pHjXUeStskQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-1casis4jdh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000871839582"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1146"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6GGhCv9ftiYKAXuJIVVS1dTvd55yYwS8pHjXUeStskQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 21:59:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"r5pou5OyNIvcTYeoEABdSVREAWYLmBVMRVTvxRYOqvk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r5pou5OyNIvcTYeoEABdSVREAWYLmBVMRVTvxRYOqvk="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/wwwroot/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3835"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r5pou5OyNIvcTYeoEABdSVREAWYLmBVMRVTvxRYOqvk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 21:59:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r5pou5OyNIvcTYeoEABdSVREAWYLmBVMRVTvxRYOqvk="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/Todo/Todo/obj/Debug/net9.0/compressed/nsc2yllrpk-1casis4jdh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6GGhCv9ftiYKAXuJIVVS1dTvd55yYwS8pHjXUeStskQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 21:59:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6GGhCv9ftiYKAXuJIVVS1dTvd55yYwS8pHjXUeStskQ="
         }
       ]
     }
