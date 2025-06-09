@@ -68,13 +68,15 @@ function deleteItem(id) {
     .catch(error => console.error('Unable to delete item.', error));
   }
 
-/*
+
 function addItem() {
   const addNameTextbox = document.getElementById('add-name');
+  const addDescriptionTextbox = document.getElementById('add-description');
 
   const item = {
     isComplete: false,
-    name: addNameTextbox.value.trim()
+    name: addNameTextbox.value.trim(),
+    description: addDescriptionTextbox.value.trim()
   };
 
   fetch(uri, {
@@ -89,6 +91,7 @@ function addItem() {
     .then(() => {
       getItems();
       addNameTextbox.value = '';
+      addDescriptionTextbox.value = '';
     })
     .catch(error => console.error('Unable to add item.', error));
 }
@@ -104,6 +107,8 @@ function displayEditForm(id) {
   document.getElementById('editForm').style.display = 'block';
 }
 
+
+/*
 function updateItem() {
   const itemId = document.getElementById('edit-id').value;
   const item = {

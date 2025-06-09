@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Todo.Dtos;
 using Todo.Models;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -23,6 +24,7 @@ var todoItems = app.MapGroup("/todoitems");
 
 todoItems.MapGet("/", GetAllTodos);
 todoItems.MapDelete("/{id}", DeleteTodo);
+todoItems.MapPost("/", CreateTodo);
 
 
 
@@ -32,6 +34,24 @@ app.Run();
 static async Task<IResult> GetAllTodos(TodoContext db)
 {
     return TypedResults.Ok(await db.TodoItems.ToArrayAsync());
+}
+
+static async Task<IResult> CreateTodo(TodoItemDto todoItemDto, TodoContext db)
+{
+    var todoItem = new TodoItem
+    {
+
+        IsComplete = todoItemDto.IsComplete,
+        Name = todoItemDto.Name,
+        Description = todoItemDto.Description,
+    };
+
+    db.TodoItems.Add(todoItem);
+    await db.SaveChangesAsync();
+
+    todoItemDto = new TodoItemDto(todoItem);
+
+    return TypedResults.Created($"/todoitems/{todoItem.Id}", todoItemDto);
 }
 
 
