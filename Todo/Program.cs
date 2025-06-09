@@ -25,6 +25,7 @@ var todoItems = app.MapGroup("/todoitems");
 todoItems.MapGet("/", GetAllTodos);
 todoItems.MapDelete("/{id}", DeleteTodo);
 todoItems.MapPost("/", CreateTodo);
+todoItems.MapPut("/{id}", UpdateTodo);
 
 
 
@@ -65,4 +66,19 @@ static async Task<IResult> DeleteTodo(int id, TodoContext db)
     }
 
     return TypedResults.NotFound();
+}
+
+static async Task<IResult> UpdateTodo(int id, TodoItemDto todoItemDTO, TodoContext db)
+{
+    var todo = await db.TodoItems.FindAsync(id);
+
+    if (todo is null) return TypedResults.NotFound();
+
+    todo.Name = todoItemDTO.Name;
+    todo.IsComplete = todoItemDTO.IsComplete;
+    todo.Description = todoItemDTO.Description;
+
+    await db.SaveChangesAsync();
+
+    return TypedResults.NoContent();
 }

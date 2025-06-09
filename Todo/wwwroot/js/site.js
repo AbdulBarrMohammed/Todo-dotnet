@@ -103,18 +103,20 @@ function displayEditForm(id) {
 
   document.getElementById('edit-name').value = item.name;
   document.getElementById('edit-id').value = item.id;
+  document.getElementById('edit-description').value = item.description;
   document.getElementById('edit-isComplete').checked = item.isComplete;
   document.getElementById('editForm').style.display = 'block';
 }
 
 
-/*
+
 function updateItem() {
   const itemId = document.getElementById('edit-id').value;
   const item = {
     id: parseInt(itemId, 10),
     isComplete: document.getElementById('edit-isComplete').checked,
-    name: document.getElementById('edit-name').value.trim()
+    name: document.getElementById('edit-name').value.trim(),
+    description: document.getElementById('edit-description').value.trim()
   };
 
   fetch(`${uri}/${itemId}`, {
@@ -136,5 +138,3 @@ function updateItem() {
 function closeInput() {
   document.getElementById('editForm').style.display = 'none';
 }
-
-*/
